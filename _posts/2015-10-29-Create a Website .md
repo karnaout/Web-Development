@@ -15,7 +15,6 @@ To start building any website you always have three choices or Development Tools
 •	Hand-coded  
 •	Website Builder  
 •	Content Management systems [CMS]  
-
 Those three tools give different types of possibilities for creating the website. Let’s start with hand-coded.
 
 ## Hand-coded:
