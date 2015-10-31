@@ -11,10 +11,17 @@ categories:
 twitter_text: 'How to install Jekyll.'
 ---
 ##What type of development tool for a website you should use and why?  
-![alt text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbaOwpDBl4SP2-qMp0zFHCZbVgceF6Vs3mczBM6t67F8pLC2Qtxw "Title")  
-//<p style="font-size:25%">TECHLELA,TECHLELA.com http://www.techlila.com/cms-html-small-business-choose-website/.</p>  
-Websites come in a variety of different shapes and sizes but and they can be reached in different ways. But the question is, what is the most appropriate choice for your needs and how to approach it 
+Last post, CREATE A WEBSITE, discuss the three common ways to develop a website. Today I want to summarize the advantages and disadvantages of these three ways. Then compare between static and dynamic web sites.  
+according to the discussion of last week, the advantages and disadvantages of these three ways can be illustrated as follows    
 
+|               | BUILDERS      | CMS   | HAND-CODED   |
+| ------------- |:-------------:| -----:| ------------:|
+| PRICE         | FREE/CHEAP    | CHEAP | EXPENSIVE	   |
+| USER FRIENDLY | ✓✓✓✓✓         |  ✓✓✓✓ |  ✓    	   | 
+| PERFORMANCE   | ✓✓            |  ✓✓✓✓ |  ✓✓✓✓✓  	   |
+| CUSTOMISATION | ✓             |  ✓✓✓✓ |  ✓✓✓✓✓  	   |
+| SEO           | ✓✓            |  ✓✓✓✓ |  ✓✓✓✓✓       |
+  
 {% highlight ruby %}
 ##=> 
 {% endhighlight %}
