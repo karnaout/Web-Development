@@ -10,7 +10,10 @@ categories:
 - Jekyll 
 twitter_text: 'How to install Jekyll.'
 ---
-![alt text](http://cdn4.techlila.com/wp-content/uploads/2013/09/cms-or-html.jpg "Title")
+##What type of development tool for a website you should use and why?  
+![alt text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbaOwpDBl4SP2-qMp0zFHCZbVgceF6Vs3mczBM6t67F8pLC2Qtxw "Title")  
+<p style="font-size:25%">TECHLELA,TECHLELA.com http://www.techlila.com/cms-html-small-business-choose-website/.</p>  
+Websites come in a variety of different shapes and sizes but and they can be reached in different ways. But the question is, what is the most appropriate choice for your needs and how to approach it 
 
 {% highlight ruby %}
 ##=> 
