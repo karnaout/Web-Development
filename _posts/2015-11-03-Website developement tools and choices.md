@@ -14,27 +14,51 @@ twitter_text: 'How to install Jekyll.'
 Last post, CREATE A WEBSITE, discussed the three common ways to develop a website. Today I want to summarize the advantages and disadvantages of these three ways. Then compare between static and dynamic web sites.  
 according to the discussion of last week, the advantages and disadvantages of these three ways can be illustrated as follows    
   
-<table style="width:100%">
+<table style="width:30%">
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td></td>
+    <td>**BUILDERS**</td> 
+    <td>**CMS**</td>
+    <td>**HAND-CODED**<td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>PRICE</td>
+    <td>FREE/CHEAP</td> 
+    <td>CHEAP</td>
+    <td>EXPENSIVE</td>
+  </tr>
+  <tr>
+    <td>USER FRIENDLY</td>
+    <td>✓✓✓✓✓</td> 
+    <td>✓✓✓✓</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>PERFORMANCE</td>
+    <td>✓✓</td> 
+    <td>✓✓✓✓</td>
+    <td>✓✓✓✓✓</td>
+  </tr>
+  <tr>
+    <td>SEO</td>
+    <td>✓✓</td> 
+    <td>✓✓✓✓</td>
+    <td>✓✓✓✓✓</td>
+  </tr>
+  <tr>
+    <td>CUSTOMISATION</td>
+    <td>✓</td> 
+    <td>✓✓✓✓</td>
+    <td>✓✓✓✓✓</td>
   </tr>
 </table>
+it's worth noting 
 
-compare       | **BUILDERS**      | **CMS**   | **HAND-CODED**   |
-------------- |:-------------:| -----:| ------------:|
-| PRICE         | FREE/CHEAP    | CHEAP | EXPENSIVE	   |
-| USER FRIENDLY | ✓✓✓✓✓         |  ✓✓✓✓ |  ✓    	   | 
-| PERFORMANCE   | ✓✓            |  ✓✓✓✓ |  ✓✓✓✓✓  	   |
-| CUSTOMISATION | ✓             |  ✓✓✓✓ |  ✓✓✓✓✓  	   |
-| SEO           | ✓✓            |  ✓✓✓✓ |  ✓✓✓✓✓       |
-  
+|  |  |  |  |  |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 {% highlight ruby %}
 ##=> 
