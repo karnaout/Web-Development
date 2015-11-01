@@ -79,10 +79,10 @@ There is no static answer to this question! You should decide it depending on yo
 
 
 
-For more information Check out these links 
-<a href="http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html">DREAMIFly</a>
-<a href="https://rocketmedia.com/blog/static-vs-dynamic-websites">Rocket Media</a>
-
+For more information Check out these links  
+<a href="http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html">DREAMIFly</a>  
+<a href="https://rocketmedia.com/blog/static-vs-dynamic-websites">Rocket Media</a>  
+  
 <a href="http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html"><p style="font-size=6">Dreamifly, DREAMIFly, http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html</p></a>
 [jekyll-gh]: https://github.com/Web-Development
 [jekyll]:    http://jekyllrb.com
