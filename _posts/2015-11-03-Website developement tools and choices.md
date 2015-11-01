@@ -63,7 +63,7 @@ Now, let me summarize these information in this table. It is worth mentioning th
   </tr>
 </table>
   
-<h3 style="color:blue">Static vs. Dynamic Websites</h1>
+<h3 style="color:blue">Static vs. Dynamic Websites</h1>  
 An essential question here is static or dynamic website you need. Because the difference is not obvious when you’re just looking at a website in your browser, but it can make a big difference in the function of your website.  
 
 **Static websites** are consist of a series of HTML files, each one representing a physical page of a website. So on static sites, each page is a separate HTML file. When you visit the homepage, you are viewing the actual homepage file. Where, a **dynamic website** uses server technologies (such as PHP) to dynamically build a webpage right when a user visits the page. The beggest difference between these two website types is the Dynamic Websites have database or we call it Back-End, in time Static websites don't have database at all. Look at this image  
