@@ -68,22 +68,21 @@ An essential question here is static or dynamic website you need. Because the di
 
 **Static websites** are consist of a series of HTML files, each one representing a physical page of a website. So on static sites, each page is a separate HTML file. When you visit the homepage, you are viewing the actual homepage file. Where, a **dynamic website** uses server technologies (such as PHP) to dynamically build a webpage right when a user visits the page. The beggest difference between these two website types is the Dynamic Websites have database or we call it Back-End, in time Static websites don't have database at all. Look at this image  
 ![Alt Text](http://7blog.7host.com/wp-content/uploads/dynamic-website.jpg)
-<p style="font-size=6">Dreamifly, DREAMIFly, http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html</p> 
-
 **So, Which website is best suitable for you?**  
 There is no static answer to this question! You should decide it depending on your requirements and needs. However, the very simple answer for this question can be, if you need a website that doesn't have any sort of processing data or interacting with the users, in term of reading data, analyzing or make a response, your best choice is Static Website. But otherwise, Dynamic Websites are always better choice especially for big websites.
 
 
 {% highlight ruby %}
-##=> 
+##=> Choosing Your Development Tools
 {% endhighlight %}
 
 
 
 
 For more information Check out these links 
+<a href="http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html">DREAMIFly</a>
+<a href="https://rocketmedia.com/blog/static-vs-dynamic-websites">Rocket Media</a>
 
-
-
+<a href="http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html"><p style="font-size=6">Dreamifly, DREAMIFly, http://www.dreamifly.com/2015/04/dynamic-website-vs-static-website.html</p></a>
 [jekyll-gh]: https://github.com/Web-Development
 [jekyll]:    http://jekyllrb.com
