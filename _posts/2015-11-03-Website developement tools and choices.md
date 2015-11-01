@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Website Developement Tools and Choices"
+title: "Choosing Your Development Tools"
 date: 2015-11-03 03:21:35
 image: '/assets/img/'
-description: 'What type of development tool for a website should you use and why?'
+description: 'What type of development tool for your website should you use and why?'
 tags:
 - jekyll
 categories:
 - Jekyll 
 twitter_text: 'How to install Jekyll.'
 ---
-##What type of development tool for a website you should use and why?  
-Last post, CREATE A WEBSITE, discussed the three common ways to develop a website. Today I want to summarize the advantages and disadvantages of these three ways. Then compare between static and dynamic web sites.  
-according to the discussion of last week, the advantages and disadvantages of these three ways can be illustrated as follows    
+Websites come in a variety of different shapes and sizes and they can be reached by using any of different tools. This is advantageous because you can find the tool that best fits your needs and the way you work. Last week discussion showed advantages and disadvantages of the three most common web development tools. Throughout this guide, I will shed light on the your choices in personal direction and compare them in order for you to find the best fits choice for your website development  
   
 <table style="width:50%">
   <tr>
@@ -52,7 +50,7 @@ according to the discussion of last week, the advantages and disadvantages of th
     <td>✓✓✓✓✓</td>
   </tr>
 </table>
-for the table above, it's worth mentioning that Markdown does not provide any special syntax for tables. Instead it uses HTML <table> syntax. But there exist Markdown syntax extensions which provide additional syntax for creating simple tables.  
+for the table above, it's worth mentioning that Markdown does not provide any special syntax for tables. Instead it uses HTML Table syntax. But there exist Markdown syntax extensions which provide additional syntax for creating simple tables.  
 
 
 {% highlight ruby %}
