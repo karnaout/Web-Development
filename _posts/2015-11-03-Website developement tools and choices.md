@@ -17,9 +17,9 @@ according to the discussion of last week, the advantages and disadvantages of th
 <table style="width:50%">
   <tr>
     <td></td>
-    <td>**BUILDERS**</td> 
-    <td>**CMS**</td>
-    <td>**HAND-CODED**<td>
+    <td><b>BUILDERS</b></td> 
+    <td><b>CMS</b></td>
+    <td><b>HAND-CODED</b><td>
   </tr>
   <tr>
     <td>PRICE</td>
