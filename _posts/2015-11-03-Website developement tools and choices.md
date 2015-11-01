@@ -14,7 +14,7 @@ twitter_text: 'How to install Jekyll.'
 Last post, CREATE A WEBSITE, discussed the three common ways to develop a website. Today I want to summarize the advantages and disadvantages of these three ways. Then compare between static and dynamic web sites.  
 according to the discussion of last week, the advantages and disadvantages of these three ways can be illustrated as follows    
   
-<table style="width:30%">
+<table style="width:50%">
   <tr>
     <td></td>
     <td>**BUILDERS**</td> 
@@ -52,13 +52,8 @@ according to the discussion of last week, the advantages and disadvantages of th
     <td>✓✓✓✓✓</td>
   </tr>
 </table>
-it's worth noting 
+for the table above, it's worth mentioning that Markdown does not provide any special syntax for tables. Instead it uses HTML <table> syntax. But there exist Markdown syntax extensions which provide additional syntax for creating simple tables.  
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 {% highlight ruby %}
 ##=> 
