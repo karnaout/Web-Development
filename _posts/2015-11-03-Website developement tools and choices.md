@@ -10,7 +10,7 @@ categories:
 - Jekyll 
 twitter_text: 'How to install Jekyll.'
 ---
-#Intro
+####Intro
 Websites come in a variety of different shapes and sizes and they can be reached by using any of different tools. This is advantageous because you can find the tool that best fits your needs and the way you work. Last week discussion showed advantages and disadvantages of the three most common web development tools. Throughout this guide, I will shed light on the your choices in personal direction and compare them in order for you to find the best fits choice.    
 
 Let us start with **Website buikders**. Website builders are usually cheap and user-friendly with a lot of features like (Drag and Drop). Also Website builders do not need for experience and knowledge in coding or databases to create the website. In contrast, there are some shortcomings like limited site speed and restricted choices for customization and SEO options. Among the common well-known used website builders are WIX, WEEBLY, JIMDO, YOLA and MOONFRUIT.    
