@@ -10,7 +10,7 @@ categories:
 - Jekyll 
 twitter_text: 'How to install Jekyll.'
 ---
-the link below is for a website made by web builder.  
+The Last post was explaning differences between static and Dynamic websites. Also differences between website built using different ways. the link below is for a website made by web builder.  
 <a href="http://khaledarnaout.wix.com/curriculum-vitae-r">The Link</a>  
 you can see differences between the website you are surffing right now which is a static website and that website. For instance, in contact you see how you can send an email to communicate with the administrator. In time in static websites, sending an email is a very hard feature to apply on your website, requires a lot of external plugins.  
 In the othere side, check out <a href="http://khaledarnaout.info/">this link</a>  
