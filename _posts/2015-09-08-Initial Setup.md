@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installing Jekyll"
+title: "Installing Jekyll Now"
 date: 2015-09-08 03:21:35
 image: '/assets/img/'
 description: 'How to install jekyll on Localhost server'
