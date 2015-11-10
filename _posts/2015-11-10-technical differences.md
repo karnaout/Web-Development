@@ -14,7 +14,7 @@ The Last post was explaning differences between static and Dynamic websites. Als
 <a href="http://khaledarnaout.wix.com/curriculum-vitae-r">The Link</a>  
 you can see differences between the website you are surffing right now which is a static website and that website. For instance, in contact you see how you can send an email to communicate with the administrator. In time in static websites, sending an email is a very hard feature to apply on your website, requires a lot of external plugins.  
 In the othere side, check out <a href="http://khaledarnaout.info/">this link</a>  
-
+In this website, look at things like, the meta slids, the Calendar. These are features require what called BackEnd Development. For instance, the Meta Slids, coded using Java, and so the Calendar.
 
 
 
