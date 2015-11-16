@@ -17,11 +17,15 @@ Front-End Development also known as Client-Side Development, it mainly includes 
 ![Alt Text](http://www.3nytechnology.com/wp-content/uploads/2014/09/Website-Frontend-and-Backend.jpg)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p style="font-size:40%">Abbanat, Cherie, Professor. Front-End and Back-End Development. Digital image</p>  
 =======
 <p style="font-size:111">Abbanat, Cherie, Professor. Front-End and Back-End Development. Digital image</p>  
 
 >>>>>>> origin/gh-pages
+=======
+<p style="font-size:111">Abbanat, Cherie, Professor. Front-End and Back-End Development. Digital image</p>  
+>>>>>>> parent of 0d2cec1... change font size
 =======
 <p style="font-size:111">Abbanat, Cherie, Professor. Front-End and Back-End Development. Digital image</p>  
 >>>>>>> parent of 0d2cec1... change font size
