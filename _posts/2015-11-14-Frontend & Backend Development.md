@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frontend & Backend Development"
-date: 2015-11-03 03:21:35
+date: 2015-11-15 03:21:35
 image: '/assets/img/'
 description: ''
 tags:
