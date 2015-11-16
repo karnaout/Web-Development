@@ -1,7 +1,7 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
 baseurl: /Web-Development
-url: "http://localhost:3000" # the base hostname & protocol for your site 
+url: /Web-Development # the base hostname & protocol for your site 
 
 # User settings
 username: Web Development
