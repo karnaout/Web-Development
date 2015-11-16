@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technical Differences"
-date: 2015-11-03 03:21:35
+date: 2015-11-10 03:21:35
 image: '/assets/img/'
 description: ''
 tags:
