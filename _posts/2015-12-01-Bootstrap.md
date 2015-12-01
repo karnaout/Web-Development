@@ -16,10 +16,8 @@ Bootstrap is an open-source Javascript framework developed by a team from Twitte
 ###Advantages of Bootstrap  
 The biggest advantage of using Bootstrap is that it comes with free set of tools for creating flexible and responsive web layouts as well as common interface components.  
 Additionally, using the Bootstrap data APIs you can create advanced interface components like Scrollspy and Typeaheads without writing a single line of JavaScript.   
-{% highlight ruby %}
-{% endhighlight %}
+
 <a href="http://karnaout.github.io/Bootstrap">Bootstrap test link</a>
-[This link](http://karnaout.github.io/Bootstrap)
 {% highlight ruby %}
 {% endhighlight %}
 
