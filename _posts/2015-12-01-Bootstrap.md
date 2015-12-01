@@ -20,6 +20,7 @@ Additionally, using the Bootstrap data APIs you can create advanced interface co
 
 {% highlight ruby %}
 <a href="http://karnaout.github.io/Bootstrap">Bootstrap test link</a>
+[This link](http://karnaout.github.io/Bootstrap)
 {% endhighlight %}
 
 
