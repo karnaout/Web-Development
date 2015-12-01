@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bootstrap"
-date: 2015-11-24 03:21:35
+date: 2015-12-1 03:21:35
 image: '/assets/img/'
 description: ''
 tags:
