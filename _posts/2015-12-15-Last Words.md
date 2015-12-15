@@ -23,7 +23,7 @@ twitter_text: ''
 *	Frontend & Backend Development
 *	Static vs Dynamic Website
 *	Bootstrap  
-Learning Web Development was my early goal. But in Monmouth College, the main focus, for Computer Science students, was on other fields of this science. I found a big chance to study this subject by myself and with the help of my supervisor, Professor James L. Mayfield, by taking this course.  
+<p>	Learning Web Development was my early goal. But in Monmouth College, the main focus, for Computer Science students, was on other fields of this science. I found a big chance to study this subject by myself and with the help of my supervisor, Professor James L. Mayfield, by taking this course.</p>
 Before I make this study, I was totally ignorant about Web Development. I used to hear people saying terms like, Markdown, CSS, FTP, GitHub, frontend/backend Development or Bootstrap, I was a bit aware of the main concept of some of these terms, but that was not enough for me. I wanted to get myself more familiar and more comfortable to work with these web features.  
 I, proudly, succeeded to do that. Now, I feel way more comfortable working with the stuff I have covered. I have more comprehensive idea about how the web works, the structure of a web page/ web site and the technologies involved in enhancing the design.
 
