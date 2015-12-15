@@ -19,7 +19,6 @@ Additionally, using the Bootstrap data APIs you can create advanced interface co
 
 <a href="http://karnaout.github.io/Bootstrap">Bootstrap test link</a>  
 
-
 For more information Check out these links  
 <a href="http://getbootstrap.com/">Bootstrap</a>  
 <a href="https://www.youtube.com/watch?v=gqOEoUR5RHg">Bootstrap Tutorial</a>
