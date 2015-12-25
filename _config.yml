@@ -1,17 +1,17 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about web development
 baseurl: /Web-Development
 url: /Web-Development # the base hostname & protocol for your site 
 
 # User settings
 username: Web Development
 user_description: Supervised by Prof. James, L. Mayfield
-user_title: Fundementals and essential technologies
+user_title: KHALED ARNAOUT
 email: karnaout@monmouthcollege.edu
-twitter_username: lorem_ipsum
+twitter_username: Khaledarnaout8
 github_username:  karnaout
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+gplus_username:  +KhaledArnaoutKhaled-Arnaout
+disqus_username: khaledarnaout
 
 # Build settings
 markdown: redcarpet
